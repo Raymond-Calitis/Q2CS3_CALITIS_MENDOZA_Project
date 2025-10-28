@@ -1,6 +1,6 @@
 # Q2CS3_CALITIS_MENDOZA_Project
 # Logo: 
-![Project Logo](https://raw.githubusercontent.com/yourusername/WDProjSectionLastNames/main/logo.png)
+![Project Logo](https://raw.githubusercontent.com/Raymond-Calitis/Q2CS3_CALITIS_MENDOZA_Project/main/Logo.png)
 
 Canva. (2024). Online design platform [Software]. Retrieved from https://www.canva.com/
 Lavrov, I. (2025, July 21). The Kobe Bryant logo history and meaning. Design, Branding and Business – the Official Turbologo Blog. https://turbologo.com/articles/the-kobe-bryant-logo-history-and-meaning/
