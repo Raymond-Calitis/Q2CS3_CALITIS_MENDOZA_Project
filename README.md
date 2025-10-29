@@ -27,19 +27,19 @@ This page will show most of Kobe’s popular shoes, shirts, and other merchandis
 
 JavaScript will be incorporated into the homepage, where you can hover over images and the footer and it will expand. It will also be incorporated in the Stat-line page, allowing you to click on an image to reveal the statlines. In the NBA Legacy Page, there would be icons where when you click on them you can see timestamps of Kobe’s achievements. In the merchandise section, the images will be hoverable, and when you click on them, it would pop up a description of that image.
 
-# Website Wireframes
+## Website Wireframes
 
-## Home Page Wireframe
-<img src="https://raw.githubusercontent.com/Raymond-Calitis/Q2CS3_CALITIS_MENDOZA_Project/main/WireframePage1.png" width="500" alt="Home Page Wireframe">
+### Home Page Wireframe
+<img src="https://raw.githubusercontent.com/Raymond-Calitis/WDProjCesiumCALITISMENDOZA/main/images/WireframePage1.png" width="400" alt="Home Page Wireframe">
 
-## Biography Page Wireframe
-<img src="https://raw.githubusercontent.com/Raymond-Calitis/Q2CS3_CALITIS_MENDOZA_Project/main/WireframePage2.png" width="500" alt="Biography Page Wireframe">
+### Biography Page Wireframe
+<img src="https://raw.githubusercontent.com/Raymond-Calitis/WDProjCesiumCALITISMENDOZA/main/images/WireframePage2.png" width="400" alt="Biography Page Wireframe">
 
-## NBA Legacy Page Wireframe
-<img src="https://raw.githubusercontent.com/Raymond-Calitis/Q2CS3_CALITIS_MENDOZA_Project/main/WireframePage3.png" width="500" alt="NBA Legacy Wireframe">
+### NBA Legacy Page Wireframe
+<img src="https://raw.githubusercontent.com/Raymond-Calitis/WDProjCesiumCALITISMENDOZA/main/images/WireframePage3.png" width="400" alt="NBA Legacy Wireframe">
 
-## Statistics Page Wireframe
-<img src="https://raw.githubusercontent.com/Raymond-Calitis/Q2CS3_CALITIS_MENDOZA_Project/main/WireframePage4.png" width="500" alt="Statistics Page Wireframe">
+### Statistics Page Wireframe
+<img src="https://raw.githubusercontent.com/Raymond-Calitis/WDProjCesiumCALITISMENDOZA/main/images/WireframePage4.png" width="400" alt="Statistics Page Wireframe">
 
-## Merchandise Page Wireframe
-<img src="https://raw.githubusercontent.com/Raymond-Calitis/Q2CS3_CALITIS_MENDOZA_Project/main/WireframePage5.png" width="500" alt="Merchandise Page Wireframe">
+### Merchandise Page Wireframe
+<img src="https://raw.githubusercontent.com/Raymond-Calitis/WDProjCesiumCALITISMENDOZA/main/images/WireframePage5.png" width="400" alt="Merchandise Page Wireframe">
